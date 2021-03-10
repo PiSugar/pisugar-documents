@@ -6,13 +6,33 @@
 
 CE
 
+
+[1200mah]()
+[5000mah]()
+
 ROHS
+
+
+[1200mah]()
+[5000mah]()
 
 EMC
 
+
+[1200mah]()
+[5000mah]()
+
 FCC
 
+
+[1200mah]()
+[5000mah]()
+
 MSDS
+
+
+[1200mah](https://github.com/PiSugar/pisugar-documents/blob/master/certificate/PiSugar2/Pisugar%201200mAh-MSDS.pdf)
+[5000mah](https://github.com/PiSugar/pisugar-documents/blob/master/certificate/PiSugar2P/Pisugar%205000mAh-MSDS.pdf)
 
 UN38.3
 
@@ -21,3 +41,6 @@ UN38.3
 
 PSE
 
+
+[1200mah]()
+[5000mah]()
