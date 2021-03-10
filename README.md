@@ -4,29 +4,40 @@
   <img width="320" src="https://raw.githubusercontent.com/JdaieLin/PiSugar/master/logo.jpg">
 </p>
 
-CE
 
-
-[1200mah]()
-[5000mah]()
 
 ROHS
 
 
-[1200mah]()
-[5000mah]()
+[1200mah](https://github.com/PiSugar/pisugar-documents/blob/master/certificate/PiSugar2/Pisugar%201200mAh-ROHS.jpg)
+[5000mah](https://github.com/PiSugar/pisugar-documents/blob/master/certificate/PiSugar2P/Pisugar%205000mAh-ROHS.jpg)
+
+
+ROHS-report
+
+
+[1200mah](https://github.com/PiSugar/pisugar-documents/blob/master/certificate/PiSugar2/Pisugar%201200mAh-ROHS_report.pdf)
+[5000mah](https://github.com/PiSugar/pisugar-documents/blob/master/certificate/PiSugar2P/Pisugar%205000mAh-ROHS_report.pdf)
 
 EMC
 
 
-[1200mah]()
-[5000mah]()
+[1200mah](https://github.com/PiSugar/pisugar-documents/blob/master/certificate/PiSugar2/Pisugar%201200mAh-EMC.jpg)
+[5000mah](https://github.com/PiSugar/pisugar-documents/blob/master/certificate/PiSugar2P/Pisugar%205000mAh-EMC.jpg)
+
+
+
+EMC-report
+
+
+[1200mah](https://github.com/PiSugar/pisugar-documents/blob/master/certificate/PiSugar2/Pisugar%201200mAh-EMC_report.pdf)
+[5000mah](https://github.com/PiSugar/pisugar-documents/blob/master/certificate/PiSugar2P/Pisugar%205000mAh-EMC_report.pdf)
 
 FCC
 
 
-[1200mah]()
-[5000mah]()
+[1200mah](https://github.com/PiSugar/pisugar-documents/blob/master/certificate/PiSugar2/Pisugar%201200mAh-FCC_report.pdf)
+[5000mah](https://github.com/PiSugar/pisugar-documents/blob/master/certificate/PiSugar2P/Pisugar%205000mAh-FCC_report.pdf)
 
 MSDS
 
@@ -42,5 +53,5 @@ UN38.3
 PSE
 
 
-[1200mah]()
-[5000mah]()
+[1200mah](https://github.com/PiSugar/pisugar-documents/tree/master/certificate/PiSugar2/PSE)
+[5000mah](https://github.com/PiSugar/pisugar-documents/tree/master/certificate/PiSugar2P/PSE)
