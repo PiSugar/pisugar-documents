@@ -15,6 +15,7 @@ FCC
 MSDS
 
 UN38.3
+[1200mah](https://github.com/PiSugar/PiSugar/wiki/PiSugar1)
 
 PSE
 
