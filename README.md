@@ -9,7 +9,7 @@
 ROHS
 
 
-[1200mah](https://github.com/PiSugar/pisugar-documents/blob/master/certificate/PiSugar2/Pisugar%201200mAh-ROHS.jpg)
+[1200mah](https://github.com/PiSugar/pisugar-documents/blob/master/certificate/PiSugar_1200mah/Pisugar%201200mAh-ROHS.jpg)
 [5000mah](https://github.com/PiSugar/pisugar-documents/blob/master/certificate/PiSugar2P/Pisugar%205000mAh-ROHS.jpg)
 
 
